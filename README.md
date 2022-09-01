@@ -8,3 +8,4 @@ git branch - para ver la rama
 git checkout -b ramab - para cambiar de rama
 git merge ramab - para agregar la rama a master desde master hay que hacerlo
 git push -u origin main
+git rm - remover archivo
